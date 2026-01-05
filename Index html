@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus Links - Acopiara</title>
+    <style>
+        /* Estilo para deixar a página bonita */
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f2f5;
+            padding: 20px;
+        }
+        .container {
+            max-width: 400px;
+            margin: auto;
+        }
+        .btn {
+            display: block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px;
+            margin: 10px 0;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Meu Perfil</h1>
+        <p>Desenvolvedor em Acopiara</p>
+
+        <a href="#" class="btn">Meu WhatsApp</a>
+        <a href="#" class="btn">Meu Instagram</a>
+        <a href="#" class="btn">Meu Portfólio</a>
+    </div>
+
+</body>
+</html>
